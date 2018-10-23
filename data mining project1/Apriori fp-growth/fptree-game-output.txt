@@ -1,0 +1,75 @@
+============print frequent set===============
+[1415,away]	602
+[1516,left]	633
+[1516,right]	688
+[right,1516,home]	365
+[away,right]	1772
+[1415,home]	717
+[right,1415,home]	393
+[away,1213,left]	148
+[away,1718,right]	307
+[left,1213,home]	203
+[left,1617,home]	369
+[right,home]	2143
+[1617,right]	682
+[1213,home]	468
+[right,1617,home]	366
+[away,1213,right]	180
+[1314,away]	607
+[1617,left]	635
+[left,1516,home]	332
+[left,1314,home]	308
+[1213,away]	338
+[away,1314,right]	330
+[left,1314,away]	258
+[1314,home]	716
+[1718,right]	689
+[away,1415,left]	286
+[left,1415,home]	324
+[1718,left]	615
+[right,1213,home]	251
+[1617,home]	735
+[1213,right]	431
+[right,1718,home]	382
+[away,1516,left]	301
+[away,1617,left]	266
+[away,1415,right]	316
+[1718,away]	599
+[1213,left]	351
+[left,home]	1874
+[1516,home]	697
+[1718,home]	755
+[away,left]	1536
+[1314,right]	716
+[away,1516,right]	323
+[1314,left]	566
+[1617,away]	582
+[1415,right]	709
+[home,1314,right]	386
+[1516,away]	624
+[away,1718,left]	277
+[away,1617,right]	316
+[1415,left]	610
+[left,1718,home]	338
+=====================================
+
+******association rule******
+Rules:{1314,left ---> home}	 Confidence:0.5441696113074205
+Rules:{1314,away ---> right}	 Confidence:0.5436573311367381
+Rules:{1617,left ---> home}	 Confidence:0.5811023622047244
+Rules:{right ---> home}	 Confidence:0.5473818646232439
+Rules:{home,1415 ---> right}	 Confidence:0.5481171548117155
+Rules:{1213,right ---> home}	 Confidence:0.5823665893271461
+Rules:{1718,left ---> home}	 Confidence:0.5495934959349593
+Rules:{1617 ---> home}	 Confidence:0.5580865603644647
+Rules:{1213,left ---> home}	 Confidence:0.5783475783475783
+Rules:{1718,right ---> home}	 Confidence:0.5544267053701016
+Rules:{1718 ---> home}	 Confidence:0.5576070901033974
+Rules:{1314 ---> right}	 Confidence:0.5411942554799698
+Rules:{left ---> home}	 Confidence:0.5495601173020528
+Rules:{1617,away ---> right}	 Confidence:0.5429553264604811
+Rules:{1213 ---> home}	 Confidence:0.5806451612903226
+Rules:{1314 ---> home}	 Confidence:0.5411942554799698
+Rules:{1415,right ---> home}	 Confidence:0.5543018335684062
+Rules:{1415 ---> home}	 Confidence:0.5435936315390447
+******************
